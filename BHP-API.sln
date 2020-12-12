@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BHP-API", "BHP-API\BHP-API.csproj", "{4D941B1F-E01B-4B66-8D4D-8F82D0FA9192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D941B1F-E01B-4B66-8D4D-8F82D0FA9192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D941B1F-E01B-4B66-8D4D-8F82D0FA9192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D941B1F-E01B-4B66-8D4D-8F82D0FA9192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D941B1F-E01B-4B66-8D4D-8F82D0FA9192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A90076-E325-4D5A-8D4C-C929B9F3550F}
+	EndGlobalSection
+EndGlobal
